@@ -1,7 +1,7 @@
 # Test
 
-Hi This ia Amitav Nayak.
-I joined GitHub on 29th Aug 2019 and this project is to see the integration of GitHut and Travis-CI.
+Hello All,
+This is a quick Travis CI (Continuous Integration) Tutorial for Node.js developers
 
 Thanks
 Amitav
